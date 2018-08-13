@@ -28,5 +28,8 @@ class GardenGnome
   def gluten_allergy
     @gluten_allergy
   end
+  def gnaw
+    returns "Gnawing on a tree!!!"
+  end 
   
 end 
