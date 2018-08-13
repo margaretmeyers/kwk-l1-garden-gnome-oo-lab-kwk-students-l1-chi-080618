@@ -7,8 +7,9 @@ class GardenGnome
   def personality
     @personality = "evil"
   end
-  
-  
+  def hat_color
+    @hat_color
+  end 
   def name=(name)
     @name = name
   end 
